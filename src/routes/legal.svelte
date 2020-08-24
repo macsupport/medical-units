@@ -1,0 +1,12 @@
+<svelte:head>
+	<title>About</title>
+</svelte:head>
+
+<h1 class="md:text-3xl mb-2">Legal Notices and Disclaimer
+</h1>
+
+<p>All information contained in and produced by medicalunitconverter.com is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease. THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE in any manner. The User is hereby notified that the information contained herein may not meet the user's needs. The User is advised that, although the information is derived from medical research and literature we cannot guarantee its correctness, comprehensiveness or currency. The User of this software assumes sole responsibility for any decisions made or actions taken based on the information contained in medicalunitconverter.com calculators. Neither Vetcalculators LLC, the system's authors nor any other party involved in the preparation, publication or distribution of medicalunitconverter.com shall be liable for any special, consequential, or exemplary damages resulting in whole or part from any User's use of or reliance upon this system and the information contained within. Vetcalculators LLC disclaims all warranties regarding such information whether express or implied, including any warranty as to the quality, accuracy, currency or suitability of this information for any particular purpose. Vetcalculators LLC and the system's authors, developers and distributors assume no responsibility for any erroneous results due to defects in the system. ACCESS TO AND USE OF THE VETCALCULATORS LLC MEDICAL UNIT CONVERTER IS PROVIDED WITHOUT WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR ANY OTHER WARRANTY, EXPRESS OR IMPLIED. In no event shall Vetcalculators LLC be liable for special, direct, indirect or consequential damages, charges, claims, costs, demands, losses fees or expenses of any nature or kind arising from use of the Vetcalculators LLC calculators. By using medicalunitconverter.com, documentation and/or any software found therein, the User agrees to abide by United States and International copyright laws and all other applicable laws involving copyright.</p>
+
+<footer class='w-full text-center border-t border-grey p-4 pin-b'>
+            www.medicalunitconverter.com
+        </footer>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1.0'>
+    <title>medicalunitconverter.com</title>
+    <meta name="description" content="Medical unit conversion calculator, medicalunitconverter.com. Convert US units to International (SI) units easily with this onlne calculator. Easily search for a specific lab test, enter any value and convert the units. For both Human and Veterinary values.">
+    <meta name='theme-color' content='#333333'> %sapper.base%
+    <link rel="stylesheet" href="index.css" />
+    <link rel='stylesheet' href='global.css'>
+
+    <link rel='manifest' href='manifest.json'>
+    <link rel='icon' type='image/png' href='favicon.png'>
+    <script data-ad-client="ca-pub-4168315944025657" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Sapper generates a <style> tag containing critical CSS
+	     for the current page. CSS for the rest of the app is
+	     lazily loaded when it precaches secondary pages -->
+    %sapper.styles%
+
+    <!-- This contains the contents of the <svelte:head> component, if
+	     the current page has one -->
+    %sapper.head%
+</head>
+
+<body class='flex flex-col h-full'>
+    <!-- The application will be rendered inside this element,
+	     because `src/client.js` references it -->
+    <div id='sapper'>%sapper.html%</div>
+
+    <!-- Sapper creates a <script> tag containing `src/client.js`
+	     and anything else it needs to hydrate the app and
+	     initialise the router -->
+    %sapper.scripts%
+</body>
+
+</html>
